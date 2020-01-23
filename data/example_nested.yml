@@ -6,9 +6,9 @@ persons:
     skills:
       - prog_lang:
          - python
-     - skilltype2:
-        - pps
-        - cmake
+      - skilltype2:
+         - pps
+         - cmake
   - name: Steve Brule
     url: http://example.org
     lat: 69.6798
@@ -16,9 +16,9 @@ persons:
     skills:
       - prog_lang:
          - python
-     - skilltype2:
-        - pps
-        - cmake
+      - skilltype2:
+         - pps
+         - cmake
   - name: Bobson Dugnutt
     url: http://example.org
     lat: 60.178511
@@ -26,9 +26,9 @@ persons:
     skills:
       - prog_lang:
          - python
-     - skilltype2:
-        - pps
-        - cmake
+      - skilltype2:
+         - pps
+         - cmake
   - name: Kilgore Trout
     url: http://example.org
     lat: 59.94347
@@ -36,6 +36,6 @@ persons:
     skills:
       - prog_lang:
          - python
-     - skilltype2:
-        - pps
-        - cmake
+      - skilltype2:
+         - pps
+         - cmake
