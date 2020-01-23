@@ -72,6 +72,7 @@ var app = new Vue({
             .then(function(response) {
                 var _data = jsyaml.load(response.data);
                 _this.persons = _data.persons;
+		alert(_this.persons)
                 _this.skills_all = extract_skills(_this.persons);
                 _this.map = draw_map();
                 _this.data_is_loaded = true;
