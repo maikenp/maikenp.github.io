@@ -11,13 +11,15 @@ if __name__ == '__main__':
     ff = open('people.yaml', 'w+')
     yamlData = {'persons': []}
 
+
+    #skills = {'prog_lang':['python','cpp'],'skill-type2':['skill1','skill2']}
     for person in people:
         entry = {
             'name': people[person]["name"],
             'url': people[person]["url"],
             'lat': 60.178511,
             'lon': 60.178511,
-            'skills': ['python', 'pps', 'cmake']
+            'skills': {'prog_lang':['python','cpp'],'skill-type2':['skill1','skill2']}
         }
         yamlData['persons'].append(entry)
 
