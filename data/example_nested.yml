@@ -6,7 +6,7 @@ persons:
     skills:
       - prog_lang:
          - python
-	 - c++
+         - c++
       - skilltype2:
          - pps
          - cmake
@@ -17,8 +17,8 @@ persons:
     skills:
       - prog_lang:
          - python
-	 - java
-	 - c++
+         - java
+         - c++
       - skilltype2:
          - pps
          - cmake
