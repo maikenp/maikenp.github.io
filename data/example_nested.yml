@@ -18,8 +18,8 @@ persons:
     skills:
       - prog_lang:
          - python
-         - java
-         - c++
+         - csharp
+         - fortran
       - skilltype2:
          - pps
          - cmake
@@ -29,7 +29,7 @@ persons:
     lon: 24.833543
     skills:
       - prog_lang:
-         - python
+         - perl
       - skilltype2:
          - pps
          - cmake
@@ -39,7 +39,7 @@ persons:
     lon: 10.718161
     skills:
       - prog_lang:
-         - python
+         - lisp
       - skilltype2:
          - pps
          - cmake
